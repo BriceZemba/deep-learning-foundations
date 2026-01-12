@@ -3,7 +3,7 @@
 ## General knowledge
 
 Throughout the history, inventors always dreamed of machine that can think. This desire dated back to ancient Greece.
- 
+
 Abstract and formal tasks are amoung the most compliated tasks for humans beings but are easily solve by the computers. Meanwhile computers struggled to solve easy tasks like speeches and images recognition.
 
 Many AI tasks can be easily solved by by designing the set of features to extract for that tasks, then providing them to a simple machine learning algorithm. But for some situations, we don't know the rigth features to extract like a tasks that should extract the numbers of cars in an images. 
