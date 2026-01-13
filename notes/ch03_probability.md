@@ -28,4 +28,8 @@ A **random variable** is a variable that can take on different values randomly. 
 
 ## 3.3 Probability Distributions
 
+A **probability distribution** is a description of how likely a random variable or
+set of random variables is to take on each of its possible states.
+
 ### 3.3.1 Discrete Variables and Probability Mass Functions
+
